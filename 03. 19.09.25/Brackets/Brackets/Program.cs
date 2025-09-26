@@ -16,11 +16,12 @@
             //antud juhul ei aksepteeri komakohaga numbrit e teisendab selle täisarvuks
             double calculation2 = (3 + 8) / (4 - 2) * 4;
             double calculation3 = 3.0 + 8.0 / ((4.0 - 2.0) * 4.0);
-
+            double calculation4 = 10 + 10;
 
             Console.WriteLine("Vastus " + calculation1);
             Console.WriteLine("Vastus " + calculation2);
             Console.WriteLine("Vastus " + calculation3);
+            Console.WriteLine("Vastus" + calculation4);
         }
     }
 }
