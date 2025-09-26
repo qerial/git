@@ -63,6 +63,8 @@
             //short
             //16 bitine arv
             short lyhikeAr = 4099;
+
+            Console.WriteLine("siin on andmetüübid");
         }
     }
 }
