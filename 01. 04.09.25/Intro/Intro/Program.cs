@@ -11,7 +11,18 @@ namespace Intro
         {
             //see on kommentaar ja seda ei loeta koodi käivitamisel
             //kommentaari saab igasuguseid asju kirjutada
-            Console.WriteLine("TERE");
+            Console.WriteLine("H");
+            Console.WriteLine("He");
+            Console.WriteLine("Hel");
+            Console.WriteLine("Hell");
+            Console.WriteLine("Hello");
+            Console.WriteLine("Hello ");
+            Console.WriteLine("Hello w");
+            Console.WriteLine("Hello wo");
+            Console.WriteLine("Hello wor");
+            Console.WriteLine("Hello worl");
+            Console.WriteLine("Hello world");
+            Console.WriteLine("Hello world!");
         }
     }
 }
