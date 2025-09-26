@@ -27,7 +27,7 @@
             }
             else
             {
-                Console.WriteLine("Mingid kahtlased numbrid jälle");
+                Console.WriteLine("Panid imeliku nubmri");
             }
         }
     }
