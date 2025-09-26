@@ -32,6 +32,10 @@ namespace IfAndElseNesting
             {
                 Console.WriteLine("Vastus on 30. Kolmas tingimus vastab tõele");
             }
+            else if (y == 300)
+            {
+                Console.WriteLine("vastasid " + y);
+            }
             else
             {
                 Console.WriteLine("Mingi kahtlane number");
