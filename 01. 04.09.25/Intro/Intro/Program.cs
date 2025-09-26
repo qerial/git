@@ -11,12 +11,7 @@ namespace Intro
         {
             //see on kommentaar ja seda ei loeta koodi käivitamisel
             //kommentaari saab igasuguseid asju kirjutada
-            Console.WriteLine("Hello");
-            Console.WriteLine("Hello");
-            Console.WriteLine("Hello");
-            Console.WriteLine("Hello");
-            Console.WriteLine("Hello");
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("TERE");
         }
     }
 }
