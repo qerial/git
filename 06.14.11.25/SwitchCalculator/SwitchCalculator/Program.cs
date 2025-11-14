@@ -43,6 +43,10 @@
                 float result4 = FirstNumber / secondNumber;
                     Console.WriteLine(result4);
                 break;
+
+                default:
+                    Console.writeline("Tundmatu tehe!");
+                    break;
             }
 
 
