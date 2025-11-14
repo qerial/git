@@ -5,9 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Sisesta esimene number");
-            //loeme kasutaja sisendit ja teisendame selle float tüübiks
-            int a,b;
-            double choice;           
+            //loeme kasutaja sisendit ja teisendame selle float tüübiks           
             //konsool kirjutab kasutajale, et vali tehe: +, -, *, /
 
             //konsool kirjutab , et sisesta teine number ja teisendame selle floati tüübiks
