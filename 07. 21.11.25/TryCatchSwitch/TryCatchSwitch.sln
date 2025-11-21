@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchSwitch", "TryCatchSwitch\TryCatchSwitch.csproj", "{2604B012-E528-4432-BC3D-3BB8A0A88503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2604B012-E528-4432-BC3D-3BB8A0A88503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2604B012-E528-4432-BC3D-3BB8A0A88503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2604B012-E528-4432-BC3D-3BB8A0A88503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2604B012-E528-4432-BC3D-3BB8A0A88503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1D51F6C-80A5-4AFF-81A8-B27928BFDBE4}
+	EndGlobalSection
+EndGlobal
