@@ -14,7 +14,6 @@
             {
                 sum = sum + j;
             Console.WriteLine("Summa on: " + sum);
-                
             }
         }
     }
