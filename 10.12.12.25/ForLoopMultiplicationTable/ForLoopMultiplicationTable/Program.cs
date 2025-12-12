@@ -27,6 +27,7 @@
 
                     }
                 }
+                Console.Write("\n");
             }
         }
     }
