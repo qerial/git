@@ -15,6 +15,7 @@
             }
 
             //kasutage nüüd foreach-i
+            Console.WriteLine("Hello, World!");
             string[] array2 = { "H","e", "l", "l", "o" };
             foreach (string i in array2)
             {
