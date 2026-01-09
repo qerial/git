@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Sisesta ruudu suurus!");
             //teha for loopiga ruut
-            int size; // Define the size of the square
+            int size, ümbermõõt, pindala; // Define the size of the square
 
             size = int.Parse(Console.ReadLine());
 
@@ -19,6 +19,12 @@
             {
                 Console.WriteLine("pole võimalik teha kuju kus on arvud miinustes.");
             }
+            pindala = size * size;
+            ümbermõõt = 4 * size;
+
+            Console.WriteLine("Ümbermõõt on " + ümbermõõt);
+            Console.WriteLine("Pindala on " + pindala);
+            Console.WriteLine("\n");
 
             for (int i = 0; i < size; i++) // Outer loop for rows
             {
