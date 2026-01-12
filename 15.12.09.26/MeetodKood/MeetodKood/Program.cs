@@ -67,7 +67,7 @@ namespace MeetodKood
             int vanus = int.Parse(Console.ReadLine());
             int x = (Console.WindowWidth) / 2;
             int y = Console.WindowHeight / 2;
-            Console.WriteLine("Sa oled " + vanus + "aastat vana");
+            Console.WriteLine("Sa oled " + vanus + " aastat vana");
         }
     }
 }
